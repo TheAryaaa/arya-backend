@@ -1,3 +1,4 @@
 saya bisa kosisten belajar untuk menjadi seorang backend engineering
 mempelajari pembelajaran api
 ini baru coba-coba
+membuat log
